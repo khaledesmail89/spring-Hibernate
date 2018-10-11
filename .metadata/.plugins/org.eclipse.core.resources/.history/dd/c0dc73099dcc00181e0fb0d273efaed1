@@ -1,0 +1,9 @@
+package com.luv2code.springdemo.config;
+
+public class DemoSecurityConfig {
+
+	public DemoSecurityConfig() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

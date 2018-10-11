@@ -1,0 +1,21 @@
+package com.luv2code.luv2code;
+
+public class SwimCoach implements Coach{
+
+	private FortuneService fortuneService;
+	
+	public SwimCoach(FortuneService fortuneService) {
+		this.fortuneService = fortuneService;
+	}
+	
+	public String getDailyWork() {
+		// TODO Auto-generated method stub
+		return "swim 1000 meters as warm up";
+	}
+
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

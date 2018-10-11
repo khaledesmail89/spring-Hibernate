@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;mvc/src/main/resources&apos;&#x0A;- Original project: &apos;spring-mvc-demo&apos;&#x0A;- Destination element: &apos;mvc/src/main/resources&apos;&#x0A;- Original elements:&#x0A;     spring-mvc-demo-servlet.xml&#x0A;     web.xml" description="Copy files" destination="=mvc/src\/main\/resources" element1="src/main/java/spring-mvc-demo-servlet.xml" element2="src/main/java/web.xml" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1538317413554" units="0" version="1.0"/>
+</session>

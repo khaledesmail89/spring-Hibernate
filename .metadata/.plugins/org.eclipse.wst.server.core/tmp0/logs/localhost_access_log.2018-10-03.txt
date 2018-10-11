@@ -1,0 +1,16 @@
+127.0.0.1 - - [03/Oct/2018:17:45:19 +0200] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [03/Oct/2018:17:45:19 +0200] "GET /web-customer-tracker/TestDbServlet HTTP/1.1" 200 -
+127.0.0.1 - - [03/Oct/2018:17:46:18 +0200] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [03/Oct/2018:17:46:18 +0200] "GET /web-customer-tracker/TestDbServlet HTTP/1.1" 200 -
+127.0.0.1 - - [03/Oct/2018:17:47:44 +0200] "GET /web-customer-tracker/TestDbServlet HTTP/1.1" 200 -
+127.0.0.1 - - [03/Oct/2018:17:49:02 +0200] "GET /web-customer-tracker/TestDbServlet HTTP/1.1" 200 -
+127.0.0.1 - - [03/Oct/2018:17:51:06 +0200] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [03/Oct/2018:17:51:06 +0200] "GET /web-customer-tracker/TestDbServlet HTTP/1.1" 200 -
+127.0.0.1 - - [03/Oct/2018:17:53:09 +0200] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [03/Oct/2018:17:53:09 +0200] "GET /web-customer-tracker/TestDbServlet HTTP/1.1" 200 -
+127.0.0.1 - - [03/Oct/2018:17:53:37 +0200] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [03/Oct/2018:17:53:37 +0200] "GET /web-customer-tracker/TestDbServlet HTTP/1.1" 200 -
+127.0.0.1 - - [03/Oct/2018:18:00:23 +0200] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [03/Oct/2018:18:00:24 +0200] "GET /web-customer-tracker/TestDbServlet HTTP/1.1" 200 -
+127.0.0.1 - - [03/Oct/2018:18:03:08 +0200] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [03/Oct/2018:18:03:08 +0200] "GET /web-customer-tracker/TestDbServlet HTTP/1.1" 200 -

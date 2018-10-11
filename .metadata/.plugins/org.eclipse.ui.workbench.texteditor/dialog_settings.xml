@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="419" key="DIALOG_X_ORIGIN"/>
+		<item value="294" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="aspects" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="aspects"/>
+			<item value="&gt;&gt;"/>
+			<item value="sessionFactory"/>
+			<item value="customer"/>
+			<item value="hibernate.version"/>
+			<item value="hibernate"/>
+			<item value="javax.servlet-api"/>
+			<item value="org.springframework.version"/>
+			<item value="mchange"/>
+			<item value="javax.servlet.jsp.jstl-api"/>
+			<item value="javax.servlet.jsp.jstl-api-1.2.1"/>
+			<item value="dispatcher"/>
+			<item value="dispatcher-servlet"/>
+			<item value="spring-webmvc"/>
+			<item value="connector"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="344" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="440" key="DIALOG_HEIGHT"/>
+		<item value="921" key="DIALOG_X_ORIGIN"/>
+		<item value="163" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

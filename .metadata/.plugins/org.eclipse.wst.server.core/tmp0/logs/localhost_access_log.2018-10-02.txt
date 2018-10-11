@@ -1,0 +1,10 @@
+127.0.0.1 - - [02/Oct/2018:12:26:49 +0200] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [02/Oct/2018:12:26:50 +0200] "GET /HeloMavenSpringWebMVC/ HTTP/1.1" 200 309
+127.0.0.1 - - [02/Oct/2018:12:26:51 +0200] "GET /HeloMavenSpringWebMVC/student/showForm HTTP/1.1" 200 1457
+127.0.0.1 - - [02/Oct/2018:12:27:03 +0200] "POST /HeloMavenSpringWebMVC/student/processForm HTTP/1.1" 200 291
+127.0.0.1 - - [02/Oct/2018:16:04:22 +0200] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [02/Oct/2018:16:04:22 +0200] "GET /HeloMavenSpringWebMVC/ HTTP/1.1" 200 309
+127.0.0.1 - - [02/Oct/2018:16:04:24 +0200] "GET /HeloMavenSpringWebMVC/customer/showForm HTTP/1.1" 200 716
+127.0.0.1 - - [02/Oct/2018:16:04:28 +0200] "POST /HeloMavenSpringWebMVC/customer/processForm HTTP/1.1" 200 836
+127.0.0.1 - - [02/Oct/2018:16:05:02 +0200] "POST /HeloMavenSpringWebMVC/customer/processForm HTTP/1.1" 200 836
+127.0.0.1 - - [02/Oct/2018:16:05:06 +0200] "POST /HeloMavenSpringWebMVC/customer/processForm HTTP/1.1" 200 836

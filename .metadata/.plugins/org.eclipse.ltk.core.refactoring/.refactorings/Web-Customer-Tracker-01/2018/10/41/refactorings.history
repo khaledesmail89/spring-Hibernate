@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;Web-Customer-Tracker-01&apos;&#x0A;- Original project: &apos;Web-Customer-Tracker-01&apos;&#x0A;- Original elements:&#x0A;     application.properties&#x0A;     log4j.xml" description="Delete elements" element1="src/main/resources/application.properties" element2="src/main/resources/log4j.xml" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1539265724275" subPackages="false" version="1.0"/>
+</session>
